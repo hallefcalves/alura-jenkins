@@ -11,7 +11,7 @@ Simple todolist write in django for general use and pipeline automation..
 
 ### Tech
 
-Dillinger uses a number of open source projects to work properly:
+Dill uses a number of open source projects to work properly:
 
 * [Django] - Django makes it easier to build better Web apps more quickly and with less code.
 * [Python-Venv] - The venv module provides support for creating lightweight “virtual environments” with their own site directories
